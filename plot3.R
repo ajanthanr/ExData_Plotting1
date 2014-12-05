@@ -1,4 +1,3 @@
-setwd("~/R/ExploratoryDataAnalysis/Project1")
 packages <- c("data.table")
 sapply(packages, require, character.only=TRUE, quietly=TRUE)
 
